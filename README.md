@@ -52,8 +52,10 @@ cscc는 _로 시작하는 파일은 컴파일하지 않는다
 # as뒤에 별명을 붙여서 사용 할 수 있다.
 ![image](https://github.com/asso123/SASS/assets/129017021/ef52e967-d340-45a2-80aa-5c37fc74fa03)
 
-# @forward는 파샬을 묶어줌
+# @forward는 파샬을 묶어줌 style.scss에서는 _index.cscc 를 호출하여 사용함
 ![image](https://github.com/asso123/SASS/assets/129017021/a5e5ce3f-1950-4615-bfea-584ab7a8da6d)
+
+#*(와일드카드)를 붙이면 이름을 생략할 수 있음
 
 
 
