@@ -56,6 +56,8 @@ cscc는 _로 시작하는 파일은 컴파일하지 않는다
 ![image](https://github.com/asso123/SASS/assets/129017021/a5e5ce3f-1950-4615-bfea-584ab7a8da6d)
 
 #*(와일드카드)를 붙이면 이름을 생략할 수 있음
+![image](https://github.com/asso123/SASS/assets/129017021/e7043478-8898-4404-a5c2-95a32a1a3459)
+
 
 
 
